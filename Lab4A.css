@@ -4,12 +4,10 @@ body{
 
 #bborder{
   margin: 150px;
-  padding: 250px;
   border: black 3px solid;
 }
 
 #text{
   margin: 20px;
-  padding: 5px;
   border: 3px dashed green;
 }
