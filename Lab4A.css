@@ -3,9 +3,9 @@ body{
 }
 
 p#bborder{
-  margin-top: 0px;
+  margin-top: 150px;
   margin-left: 15%;
-  margin-right: 30px;
+  margin-right: 150px;
   margin-bottom: 15%;
   border: black 3px solid;
 }
