@@ -4,7 +4,8 @@ body{
 
 p#bborder{
   margin-top: 300px;
-  margin-left: 300px;
+  margin-left: 30%;
   margin-right: 300px;
+  margin-bottom: 30%;
   border: black 3px solid;
 }
