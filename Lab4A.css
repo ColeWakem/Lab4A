@@ -9,6 +9,7 @@ body{
 
 #text{
   margin: 30px;
+  padding: 10px;
   border: 3px dashed green;
 }
 
