@@ -2,13 +2,13 @@ body{
   background-color: blue;
 }
 
-p.bborder{
+p#bborder{
   margin: 150px;
   padding: 250px;
   border: black 3px solid;
 }
 
-p#text{
+p.text{
   margin: 20px;
   padding: 20px;
   border: 3px dashed green;
