@@ -10,6 +10,6 @@ p#bborder{
 
 p.text{
   margin: 20px;
-  padding: 20px;
+  padding: 5px;
   border: 3px dashed green;
 }
