@@ -9,3 +9,11 @@ p#bborder{
   margin-bottom: 10%;
   border: black 3px solid;
 }
+
+p#text{
+  margin-top: 25px;
+  margin-left: 10%;
+  margin-right: 25px;
+  margin-bottom: 10%;
+  border: 3px dashed green;
+}
