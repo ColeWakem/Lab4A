@@ -11,3 +11,8 @@ body{
   margin: 30px;
   border: 3px dashed green;
 }
+
+#pic{
+  margin: 30px;
+  border: 3px dashed yellow;
+}
