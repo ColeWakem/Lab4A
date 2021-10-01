@@ -17,3 +17,8 @@ img{
   padding: 30px;
   border: 3px dashed yellow;
 }
+
+p{
+  font: arial;
+  color: red;
+}
