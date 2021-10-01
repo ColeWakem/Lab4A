@@ -4,6 +4,7 @@ body{
 
 #bborder{
   margin: 150px;
+  padding: 0;
   border: black 3px solid;
 }
 
